@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Curriculum vitæ</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+	<link rel="stylesheet" href="CV_Julien.css">
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+	<header>
+		<h1 class="t1">CV Mr POLNECQ Julien</h1>
+	</header>
+
+	<section>
+
+		<div class="prez">
+			<h2>Qui suis-je ?</h2>
+			<p>Diplômé d'un Bac pro Électro en alternance, je me suis tourné vers le développement informatique. J'ai
+				intégré une formation Développeur Web et Web Mobile avec l'Afpa de Rousies.</p>
+			<!--<a href="" download>Télécharger mon CV</a>-->
+		</div>
+		<div class="contact">
+			<h2>Informations de contact</h2>
+			<div class="contact-flex">
+				<p>Nom : </p>
+				<p>POLNECQ Julien</p>
+				<!--		</div>
+			<div class="contact-flex">
+				<p>Adresse : </p>
+				<p>70 rue des Martyrs 59570 Houdain-lez-Bavay</p>
+			</div>
+			<div class="contact-flex">
+				<p>Téléphone :</p>
+				<p>07-86-55-23-51</p>-->
+			</div>
+			<div class="contact-flex">
+				<p>Mail : </p>
+				<p><a href="mailto:polnecq.julien@outlook.fr">polnecq.julien@outlook.fr</a></p>
+			</div>
+			<div class="social">
+				<a class="fa fa-github" href="https://github.com/JuJulien595" target="_blank"></a>
+				<a class="fa fa-linkedin" href="https://www.linkedin.com/in/julien-polnecq-559207208/"
+					target="_blank"></a>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<h2>Expériences professionnelles</h2>
+		<div class="exp">
+			<div class="exp-logo">
+				<a href="http://www.jvinformatique.ovh/" target="_blank"><img src="Screenshot_4.png"
+						alt="Logo de JV Informatique"></a>
+			</div>
+			<div class="exp-info">
+				<h3>JV Informatique</h3>
+				<h4>Stagiaire : 2 semaine de stage</h4>
+				<h4>Mai à Juin 2021</h4>
+			</div>
+			<div class="exp-desc">
+				<p>Réparation de matériel informatique, dépannage dd'ordinateur et vente de matériel informatique.</p>
+			</div>
+		</div>
+		<div class="exp">
+			<div class="exp-logo">
+				<a href="https://e-catalyst.fr/" target="_blank"><img src="e-catalyst.jpg" alt="Logo E-catalyst"></a>
+			</div>
+			<div class="exp-info">
+				<h3>E-Catalyst</h3>
+				<h4>Stagiaire : 2 semaine de stage</h4>
+				<h4>Février à Mars 2021</h4>
+			</div>
+			<div class="exp-desc">
+				<p>Apprentissage des dangers liers au piratage informatique, sensibilisation de la cybersécurité,
+					obtention de l'attestation du MOOC de l'ANSSI. </p>
+			</div>
+		</div>
+		<div class="exp">
+			<div class="exp-logo">
+				<a href="https://www.toyota.fr/world-of-toyota/about-toyota/toyota-en-france/valenciennes"
+					target="_blank"><img src="Screenshot_3.png" alt="Logo de Toyota Onnaing"></a>
+			</div>
+			<div class="exp-info">
+				<h3>Toyota Onnaing</h3>
+				<h4>Apprentis</h4>
+				<h4>Année 2019-2020</h4>
+			</div>
+			<div class="exp-desc">
+				<p>Apprentis dans le secteur chassie prép, préparation du Bac Pro en apprentissage. Bac obtenu</p>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<h2>Formation</h2>
+		<div class="exp">
+			<div class="exp-logo">
+				<a href="https://www.afpa.fr/" target="_blank"><img src="Screenshot_6.png" alt=""></a>
+			</div>
+			<div class="exp-info">
+				<h3>Formation DWWM</h3>
+				<h4>Décembre 2021 à Juin 2022</h4>
+			</div>
+			<div class="exp-desc">
+				<p>Actuellement en formation Développeur Web et Web Mobile avec le centre de formation e l'Afpa.
+					Formation qualifiante avec un Bac +2. </p>
+			</div>
+		</div>
+		<div class="exp">
+			<div class="exp-logo">
+				<a href="https://id-formation.com/" target="_blank"><img src="Screenshot_5.png" alt=""></a>
+			</div>
+			<div class="exp-info">
+				<h3>Formation DVE</h3>
+				<h4>Janvier à Juin 2021</h4>
+			</div>
+			<div class="exp-desc">
+				<p>Formation Dynamique Vers l'Emploi proposé par ID Formation. Remise à niveau et apprentissage des
+					méthodes de recrutement.</p>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<h2>Compétences</h2>
+		<h3 class="h3gauche">Professionnelles</h3>
+		<div class="comp">
+			<p>HTML / CSS</p>
+			<div class="conteneur-barre"><span class="barre c100"></span></div>
+		</div>
+		<div class="comp">
+			<p>JavaScript</p>
+			<div class="conteneur-barre"><span class="barre c90"></span></div>
+		</div>
+		<div class="comp">
+			<p>Python</p>
+			<div class="conteneur-barre"><span class="barre c85"></span></div>
+		</div>
+
+	</section>
+
+	<section>
+		<h2>Centres d'intérêt</h2>
+		<figure class="interet">
+			<img src="http://codeaddictnetwork.com/wp-content/uploads/2020/12/technologies-scaled.jpg"
+				alt="Technologies">
+			<figcaption>Technologies</figcaption>
+		</figure>
+		<figure class="interet">
+			<img src="http://codeaddictnetwork.com/wp-content/uploads/2020/12/gaming.png" alt="Gaming">
+			<figcaption>Gaming</figcaption>
+		</figure>
+	</section>
+
+	<footer>
+		<p class="cpt">©2021-2022 copyright.fr. All right reserved.</p>
+	</footer>
+</body>
+</html>
